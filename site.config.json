@@ -1,23 +1,27 @@
-﻿{
+{
     "name":  "Dealty",
-    "url":  "http://www.dealty.ai",
-    "description":  "",
-    "industry":  "",
+    "url":  "https://www.dealty.ai",
+    "description":  "Flat-fee MLS listing service for FSBO home sellers in Arizona and Washington. List your home on the MLS for $199 with 0% listing commission.",
+    "industry":  "Real Estate",
     "hasContactForm":  true,
     "expectedNavItems":  [
-
-                         ],
+        "Pricing",
+        "About Us",
+        "FAQs",
+        "Blogs",
+        "Contact Us"
+    ],
     "viewports":  [
-                      "desktop",
-                      "mobile",
-                      "tablet"
-                  ],
+        "desktop",
+        "mobile",
+        "tablet"
+    ],
     "skipVisual":  false,
     "skipForms":  false,
     "auth":  {
-                 "required":  false,
-                 "loginUrl":  "",
-                 "username":  "",
-                 "password":  ""
-             }
+        "required":  false,
+        "loginUrl":  "",
+        "username":  "",
+        "password":  ""
+    }
 }
